@@ -6,11 +6,8 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
 while (true) {
-  facts += "!!!"
+  return johnLennonFacts(facts + "!!!") 
 
 }
-return johnLennonFacts()
+
   }
-
-
-
