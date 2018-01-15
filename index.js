@@ -7,9 +7,10 @@ function johnLennonFacts() {
 ];
 while (true) {
   facts += "!!!"
-  
+
 }
+return johnLennonFacts()
   }
-  return johnLennonFacts()
+  
 
 }
